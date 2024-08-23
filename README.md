@@ -1,5 +1,4 @@
 # powerbi-maven_market-project
-# Powerbi-project-Maven-market
 I'm thrilled to showcase my latest project, the Maven Market Dashboard. This comprehensive dashboard offers a detailed analysis of sales and customer data, utilizing advanced data visualization techniques. Key features include:
 Executive Dashboard: Provides a high-level overview of key performance indicators (KPIs).
 Customer Analysis: Offers insights into customer demographics, purchasing behavior, and sales trends.
